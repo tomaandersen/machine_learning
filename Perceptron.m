@@ -1,9 +1,6 @@
 clc;
 clear;
 
-
-
-
 count_matrix = filereader();
 w = [1 1 1];
 miss = 1;
